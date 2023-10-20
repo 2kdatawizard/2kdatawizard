@@ -5,7 +5,7 @@
       
 - 🌱 I’m currently learning python
 
-- 💞️ I’m looking to collaborate with skilled programmmers who have previously developed or have interest in working on products for children education. 
+- 💞️ I’m looking to collaborate with skilled programmmers who have previously developed or have interest in working on products for data engineering and\or children education. 
      People with a true passion to make education available for every child in the world especially those who can't afford it
 
 - 📫 How to reach me
