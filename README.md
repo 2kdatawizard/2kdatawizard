@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @2kdatawizard
 
+- Whatever I will write is already obsolete, all, but my ability to stay sane and crack enterprise architecture and engineering problems.
+  
 - 👀 I’m interested in learning from other wizards and may be teach one or two tricks back. I code in a few languages, like Python, C# and C++. 
       Also got some web scripting skills in React, PHP and HTML\CSS but still way to go in this area
       
