@@ -10,9 +10,7 @@
 - 💞️ I’m looking to collaborate with skilled programmers who have previously developed or have an interest in working on products for child education. 
      People with a true passion to make education available for every child in the world, especially those who can't afford it
 
-- 📫 How to reach me
-     
-     Follow me on:
+- Follow me on:
      LinkedIn:  https://linkedin.com/in/datawizard
      Twitter:   @iBilalAhmed
      Instagram: @bahmed2k
